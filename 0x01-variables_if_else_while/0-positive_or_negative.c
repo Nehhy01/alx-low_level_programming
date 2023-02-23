@@ -6,8 +6,7 @@
  * main - A program that prints n with function printf
  * Return: 0 (Success)
  */
-int main(int n;)
-{
+int main(){
 		int n;
 
 		srand(time(0));
