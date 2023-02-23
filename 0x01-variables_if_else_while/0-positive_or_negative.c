@@ -3,8 +3,8 @@
 #include <stdio.h>
 
  /**
- * main - A program that prints n with function printf
- * Return: 0 (Success)
+ * main - prints if number is positive, zero or negative
+ * Return: Always (Success)
  */
 int main(void)
 {
