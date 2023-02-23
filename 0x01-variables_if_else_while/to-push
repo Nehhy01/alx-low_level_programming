@@ -1,0 +1,3 @@
+git add .
+git commit -m "if, else ans while loop is cool"
+git push
