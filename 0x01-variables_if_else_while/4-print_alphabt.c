@@ -14,8 +14,8 @@ c = 'a';
 
 while
 	(c <= 'z') {
-	((c != 'e' && c != 'q') && c <= 'z');
-		putchar(c);
+		if ((c != 'e' && c != 'q') && c <= 'z')
+			putchar(c);
 		c++;
 	}
 	putchar('\n');
