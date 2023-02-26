@@ -16,11 +16,11 @@ int main(void)
 		putchar((c % 10) + '0');
 		putchar((d % 10) + '0');
 
-		if ( c == 8 && d == 9)
+		if (c == 8 && d == 9)
 			continue;
 		putchar(',');
 		putchar(' ');
-	}	
+	}
 }
 	putchar('\n');
 	return (0);
