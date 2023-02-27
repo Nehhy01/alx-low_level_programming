@@ -12,7 +12,6 @@ int a;
 char c;
 
 a = 0;
-c = 'a';
 
 while (a++ <= 9)
 	{
