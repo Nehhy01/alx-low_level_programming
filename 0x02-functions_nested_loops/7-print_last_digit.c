@@ -14,6 +14,6 @@ a = d % 10;
 
 	if (d < 0)
 		d = (d * -1);
-	-putchar(a + '0');
+	_putchar(a + '0');
 	return (0);
 }
