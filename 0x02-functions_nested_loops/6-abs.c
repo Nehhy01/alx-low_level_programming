@@ -3,7 +3,7 @@
 /**
  *_abs - prints the absolute value of an integer
  * Return: - 0 (success)
- * @a: Parameter to be commuted.
+ * @n: Parameter to be commuted.
  */
 
 int _abs(int n)
