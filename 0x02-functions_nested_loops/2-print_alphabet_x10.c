@@ -18,7 +18,7 @@ while (a++ <= 9)
 	{
 	if (c <= 'z')
 		_putchar(a);
-		c++;
+	c++;
 	_putchar('\n');
 	}
 }
