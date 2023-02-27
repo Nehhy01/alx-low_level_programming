@@ -12,8 +12,8 @@ int a;
 
 a = d % 10;
 
-	if (d < 0)
-		d = (d * -1);
+	if (a < 0)
+		a = (a * -1);
 	_putchar(a + '0');
-	return (0);
+	return (a);
 }
