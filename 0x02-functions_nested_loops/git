@@ -1,0 +1,3 @@
+git add .
+git commit -m "Functions and nested loops is fun"
+git push
