@@ -16,9 +16,8 @@ c = 'a';
 
 while (a++ <= 9)
 	{
-	if (c <= 'z')
-		_putchar(a);
-	c++;
+	for (c = 'a'; c <= 'z'; c++)
+		_putchar('a');
 	_putchar('\n');
 	}
 }
